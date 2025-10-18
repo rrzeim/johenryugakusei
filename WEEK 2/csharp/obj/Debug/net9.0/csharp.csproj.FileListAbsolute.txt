@@ -1,0 +1,14 @@
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\bin\Debug\net9.0\CSharpies.exe
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\bin\Debug\net9.0\CSharpies.deps.json
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\bin\Debug\net9.0\CSharpies.runtimeconfig.json
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\bin\Debug\net9.0\CSharpies.dll
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\bin\Debug\net9.0\CSharpies.pdb
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.AssemblyInfoInputs.cache
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.AssemblyInfo.cs
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.csproj.CoreCompileInputs.cache
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.dll
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\refint\CSharpies.dll
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.pdb
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\CSharpies.genruntimeconfig.cache
+C:\Users\Jhon Rey _P\Desktop\CS Journey\CMPE FOLDER\CSharpies\obj\Debug\net9.0\ref\CSharpies.dll

@@ -1,1 +1,1 @@
-My name is Johen Ryugakusei D. De Leon, a BS ECE 1-4 student. This repository contains all of my works related to CMPE class. # johenryugakusei
+My name is Johen Ryugakusei D. De Leon, a Bachelor of Science in Electronics Engineering (BS ECE) 1–4 student. This repository contains a comprehensive collection of my academic works related to the Computer Programming course.
